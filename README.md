@@ -1,10 +1,10 @@
 # SudokuLite
 
-Assignment 1 of Programing and Training course, Tsinghua University, Summmer 2017.
+SudokuLite is a sudoku generator & solver in Qt. Assignment 1 of Programing and Training course, Tsinghua University, Summmer 2017.
 
 ## Building
 
-Use `qmake` to build. Qt 5 is required.
+Use `qmake` to build. Qt 5 and C++ 11 is required.
 
 ## Screenshots
 
